@@ -1,11 +1,11 @@
 # Hi there, and welcome to my repository 👋
-I'm Adedotun, but most people called me **Ade** (pronounced 🔉 _Ah-day_).
+I'm Adedotun, but most people call me **Ade** (pronounced 🔉 _Ah-day_).
 
 ## What exactly do I do? 🤔
 + I code 💻
 + I play tennis 🎾
 + I study 👨‍🎓
-+ I also do a few other things, but 3 is more than enough for you to know. Quit being so nosey 😝
++ I also do a few other things, but three is more than enough for you to know. Quit being so nosey 😝
 
 ***I've created this repository to build up my portfolio as I aspire to become a Data Scientist***
 <picture>
