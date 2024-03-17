@@ -1,5 +1,5 @@
 # Hi there, and welcome to my repository 👋
-I'm Adedotun, but most people called me **Ade** (pronounced 🔉 * *Ah-day* *).
+I'm Adedotun, but most people called me **Ade** (pronounced 🔉 _Ah-day_).
 
 ## What exactly do I do? 🤔
 + I code 💻
